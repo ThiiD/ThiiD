@@ -1,9 +1,15 @@
-### Hi there 👋
+### Olá! 👋
 
-<!--
+
 ## Sobre mim
-Estudante de Engenharia Elétrica com Enfase em Robotica e Automação Industrial na Universidade Federal de Juiz de Fora (UFJF). Experiencia em monitorias nas disciplinas de Fisica 1 e Laboratorio de Eletronica. Participei como bolsista e volutanrio extra-oficial do Programa de Educação Tutorial - Engenharia Elétrica UFJF (PET Elétrica UFJF) durante os anos de 2018 e 2019. Participei do Programa de Aperfeiçoamento Profissional Futuros Engenheiros, promovido pelo SENAI MG. 
--->
+- 🌱 Estudante de Engenharia Elétrica com Enfase em Robótica e Automação Industrial.
+- 🔭 Atualmente, projetista no setor de eletrônica na equipe de rocket design Supernova Rocketry, monitor da disciplina de Laboratório de Eletrônica, membro do grupo de pesquisa em manufatura aditiva.
+- ⚡ Interesse nas áreas de controle, eletrônica e instrumentação em geral.
+- 😄 Pronouns: ele/dele.
+- 📫 E-mail: thiago.saber@engenharia.ufjf.br
+
+
+
 <!--
 **ThiiD/ThiiD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,16 +26,18 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiiD&layout=compact&theme=synthwave&border_color=7D0101)](https://github.com/ThiiD/github-readme-stats)
 
-##
+## Conhecimentos e interesse em:
 
 <div style="display inline_block"><br>
     <img align="center" alt="Python" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="Python" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Python" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-    <img align="center" alt="Python" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+    <img align="center" alt="C++" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="Matlab" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+    <img align="center" alt="Arduino" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+    <img align="center" alt="LaTeX" height = "40" width = "80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Altium_Logo.svg/664px-Altium_Logo.svg.png">
+    <img align="center" alt="LaTeX" height = "40" width = "80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/800px-LaTeX_logo.svg.png">
 </div>
 
-##
+## Contatos:
 
 <div>
   <a href="mailto:thiago.saber@engenharia.ufjf.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
