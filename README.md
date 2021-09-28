@@ -33,7 +33,9 @@ Here are some ideas to get you started:
     <img align="center" alt="C++" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Matlab" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
     <img align="center" alt="Arduino" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-    <img align="center" alt="LaTeX" height = "40" width = "40" src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png">
+    <img align="center" alt="Altium Designer" height = "40" width = "40" src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png">
+    <img align="center" alt="LTSpice" height = "40" width = "40" src="https://softmany.com/wp-content/uploads/2020/04/ltspice-1200x1200.png">
+    <img align="center" alt="Kivy" height = "40" width = "40" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png">
     <img align="center" alt="LaTeX" height = "40" width = "80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/800px-LaTeX_logo.svg.png">
 </div>
 
