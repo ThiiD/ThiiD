@@ -2,9 +2,9 @@
 
 
 ## Sobre mim
-- 🌱 Estudante de Engenharia Elétrica com Enfase em Robótica e Automação Industrial na Universidade Federal de Juiz de Fora.
-- 🔭 Atualmente, projetista no setor de eletrônica na equipe de rocket design Supernova Rocketry, monitor da disciplina de Laboratório de Eletrônica e membro do Grupo de Estudo em Manufaturas Aditivas.
-- ⚡ Interesse nas áreas de controle, eletrônica e instrumentação em geral.
+- 🌱 Graduado em Engenharia Elétrica com Ênfase em Robótica e Automação Industrial pela Universidade Federal de Juiz de Fora.
+- 🔭 Conselheiro na equipe de rocket design Supernova Rocketry.
+- ⚡ Interesse nas áreas de controle, eletrônica de potência e engenharia de software.
 - 😄 Pronouns: ele/dele.
 - 📫 E-mail: thiago.saber@engenharia.ufjf.br
 
