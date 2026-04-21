@@ -2,12 +2,12 @@
 
 
 ## Sobre mim
+- ☢️ Engenheiro Eletrônico na empresa Eletronuclear.
 - ⚡ Graduado em Engenharia Elétrica com Ênfase em Robótica e Automação Industrial pela Universidade Federal de Juiz de Fora.
-- 🌱 Mestrando em Engenharia Elétrica com foco em eletrônica de potência.
+- 🔋 Mestre em Sistemas Eletrônicos pela Universidade Federal de Juiz de Fora.
 - 🔭 Conselheiro na equipe de rocket design Supernova Rocketry.
-- 💬 Interesse nas áreas de controle, eletrônica de potência e engenharia de software.
-- 😄 Pronouns: ele/dele.
-- 📫 E-mail: thiago.saber@engenharia.ufjf.br
+- 💬 Interesse nas áreas de controle, eletrônica de potência, desenvolvimento de hardware e engenharia de software.
+- 📫 E-mail: thiago.saber@outlook.com.br
 
 
 
@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 ## Contatos:
 
 <div>
-  <a href="mailto:thiago.saber@engenharia.ufjf.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href="mailto:thiago.saber@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://t.me/Thiago_Saber" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  
 </div>
